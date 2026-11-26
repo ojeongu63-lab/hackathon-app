@@ -8,3 +8,7 @@ Python 3.10 이상에서 동작한다.
 - `GET /` : 인사 메시지
 
 ## 팀원
+
+
+## 실행 방법
+`uvicorn app.main:app --reload`
